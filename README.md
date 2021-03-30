@@ -33,3 +33,20 @@ Note : System contains inbuild username and password as well as admin can also u
 Note : User need to enter his/her name and password select create dataset if user doesnot exist then it will open a window to capture 300 images.
 
 ![](Photos/CreateDataset.png)
+
+### Training the model
+
+Note : Captured images are stored in dataset/names_of_entered_user folder and once training is done it will pop-up a message
+
+![](Photos/TrainingModel.png)
+
+### Detecting the face on doorbell
+
+When a person rings the doorbell a window will be popped to capture persons faces
+
+![](Photos/TrainingModel.png)
+
+If it is matching with 50% confidenece then a door will be opened else remain closed
+
+![](Photos/Doorbell.png)
+
