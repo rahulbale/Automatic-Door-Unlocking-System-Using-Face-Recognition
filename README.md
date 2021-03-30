@@ -44,7 +44,7 @@ Note : Captured images are stored in dataset/names_of_entered_user folder and on
 
 When a person rings the doorbell a window will be popped to capture persons faces
 
-![](Photos/TrainingModel.png)
+![](Photos/result.png)
 
 If it is matching with 50% confidenece then a door will be opened else remain closed
 
