@@ -23,6 +23,12 @@ Note : System contains inbuild username and password as well as admin can also u
 
 ### Existing Users
 
-![](Photos/UserPage.png)
+![](Photos/UserList.png)
 
 
+### New User Registeration
+
+![](Photos/UserList.png)
+
+
+Note : User need to enter his/her name and password select create dataset if user doesnot exist then it will open a window to capture 300 images.
