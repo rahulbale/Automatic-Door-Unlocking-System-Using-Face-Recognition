@@ -13,6 +13,16 @@
 
 ### Login Page
 
-![](Photos/HomePage.png)
+![](Photos/LoginPage.png)
 
 Note : System contains inbuild username and password as well as admin can also use from autorized user stored username and password.
+
+### Admin Page
+
+![](Photos/AdminPage.png)
+
+### Existing Users
+
+![](Photos/UserPage.png)
+
+
