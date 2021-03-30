@@ -8,3 +8,4 @@
 ## Working of Application :
 
 ### Home Page
+![alt text](Photos/Home Page.jpg)
