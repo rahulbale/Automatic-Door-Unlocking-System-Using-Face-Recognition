@@ -10,3 +10,9 @@
 ### Home Page
 
 ![](Photos/HomePage.png)
+
+### Login Page
+
+![](Photos/HomePage.png)
+
+Note : System contains inbuild username and password as well as admin can also use from autorized user stored username and password.
