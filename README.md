@@ -15,7 +15,7 @@
 
 ![](Photos/LoginPage.png)
 
-Note : System contains inbuild username and password as well as admin can also use from autorized user stored username and password.
+Note : System contains inbuild username and password as well as admin can also use from authorized user stored username and password.
 
 ### Admin Page
 
