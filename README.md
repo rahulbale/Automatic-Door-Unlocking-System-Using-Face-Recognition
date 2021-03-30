@@ -9,4 +9,4 @@
 
 ### Home Page
 
-![alt text](Photos/Home Page.png)
+![Test Image 1](Photos/Home Page.png)
