@@ -9,4 +9,4 @@
 
 ### Home Page
 
-!(Photos/Home Page.png)
+!(Photos/HomePage.png)
